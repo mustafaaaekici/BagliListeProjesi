@@ -1,0 +1,9 @@
+C:\Users\msemi\OneDrive\Belgeler\Visual Studio 2019\Projects\veriyapilari_proje\veriyapilari_proje\bin\Debug\veriyapilari_proje.exe.config
+C:\Users\msemi\OneDrive\Belgeler\Visual Studio 2019\Projects\veriyapilari_proje\veriyapilari_proje\bin\Debug\veriyapilari_proje.exe
+C:\Users\msemi\OneDrive\Belgeler\Visual Studio 2019\Projects\veriyapilari_proje\veriyapilari_proje\bin\Debug\veriyapilari_proje.pdb
+C:\Users\msemi\OneDrive\Belgeler\Visual Studio 2019\Projects\veriyapilari_proje\veriyapilari_proje\obj\Debug\veriyapilari_proje.csprojAssemblyReference.cache
+C:\Users\msemi\OneDrive\Belgeler\Visual Studio 2019\Projects\veriyapilari_proje\veriyapilari_proje\obj\Debug\veriyapilari_proje.Form1.resources
+C:\Users\msemi\OneDrive\Belgeler\Visual Studio 2019\Projects\veriyapilari_proje\veriyapilari_proje\obj\Debug\veriyapilari_proje.Properties.Resources.resources
+C:\Users\msemi\OneDrive\Belgeler\Visual Studio 2019\Projects\veriyapilari_proje\veriyapilari_proje\obj\Debug\veriyapilari_proje.csproj.GenerateResource.cache
+C:\Users\msemi\OneDrive\Belgeler\Visual Studio 2019\Projects\veriyapilari_proje\veriyapilari_proje\obj\Debug\veriyapilari_proje.exe
+C:\Users\msemi\OneDrive\Belgeler\Visual Studio 2019\Projects\veriyapilari_proje\veriyapilari_proje\obj\Debug\veriyapilari_proje.pdb
